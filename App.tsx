@@ -199,6 +199,16 @@ const App: React.FC = () => {
       {/* Footer */}
       <footer className="mt-auto py-6 text-center text-white/60 text-sm">
         <p>&copy; {new Date().getFullYear()} Mais Que Coxinha.</p>
+          <span style={{ fontSize: "0.9rem" }}>
+    Desenvolvido por{" "}
+    <a
+      href="https://tisemfronteira.com.br/"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      TI SEM FRONTEIRA
+    </a>
+  </span>
       </footer>
     </div>
   );
