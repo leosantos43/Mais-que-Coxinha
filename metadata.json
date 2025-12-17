@@ -1,0 +1,7 @@
+{
+  "name": "Mais Que Coxinha Locator",
+  "description": "Localizador de lojas Mais Que Coxinha por CEP ou Geolocalização.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
